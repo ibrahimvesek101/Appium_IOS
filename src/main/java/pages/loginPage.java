@@ -62,5 +62,6 @@ public class loginPage {
     public void checkIcon() {
         elementHelper.checkElement(icon);
     }
+
 }
 
